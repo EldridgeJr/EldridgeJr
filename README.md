@@ -18,4 +18,4 @@ Softwareentwickler aus Bremen. Ich baue native iOS-Apps, moderne Webanwendungen 
 
 ## Kontakt
 
-[eldridgekaboth.dev](https://eldridgekaboth.dev) · [LinkedIn](https://www.linkedin.com/in/eldridge-kaboth-19a56a235/) · eldridgekaboth@gmail.com
+[eldridgekaboth.dev](https://eldridgekaboth.dev) · [LinkedIn](https://www.linkedin.com/in/eldridge-kaboth) · eldridgekaboth@gmail.com
