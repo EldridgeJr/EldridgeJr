@@ -16,7 +16,7 @@ Softwareentwickler aus Bremen. Ich baue native iOS-Apps, moderne Webanwendungen 
 
 ## Tech
 
-`Swift` `SwiftUI` `TypeScript` `React` `Next.js` `Tailwind CSS` `Supabase` `Claude API` `GSAP` `three.js`
+`Swift` `SwiftUI` `TypeScript` `React` `Next.js` `Tailwind CSS` `Supabase` `LLM-APIs` `GSAP` `three.js`
 
 ## Kontakt
 
