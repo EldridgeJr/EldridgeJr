@@ -4,6 +4,8 @@ Softwareentwickler aus Bremen. Ich baue native iOS-Apps, moderne Webanwendungen 
 
 **Portfolio:** [eldridgekaboth.dev](https://eldridgekaboth.dev)
 
+**Status:** Offen für Neues. Bremen oder remote, Antwort meist unter 24 Stunden.
+
 ## Projekte
 
 | Projekt | Was es ist | Stack |
