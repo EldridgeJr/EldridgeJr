@@ -1,23 +1,25 @@
-# Moin, ich bin Eldridge 👋
+# Hi, I'm Eldridge 👋
 
-Softwareentwickler aus Bremen. Ich baue native iOS-Apps, moderne Webanwendungen und KI-gestützte Tools, end to end: vom Konzept über UI/UX bis zum Deployment.
+Software developer from Bremen, Germany. I build native iOS apps, modern web
+applications and AI-powered tools, end to end: from concept through UI/UX to
+deployment.
 
 **Portfolio:** [eldridgekaboth.dev](https://eldridgekaboth.dev)
 
-**Status:** Offen für Neues.
+**Status:** Open to new opportunities. Bremen or remote, usually replying within 24 hours.
 
-## Projekte
+## Projects
 
-| Projekt | Was es ist | Stack |
+| Project | What it is | Stack |
 |---|---|---|
-| [Nexo](https://github.com/EldridgeJr/nexo-ios) | Echtzeit-Terminal für Optionshandel (iOS) | Swift, SwiftUI, Claude API, Cloudflare Workers |
-| [Resumind](https://github.com/EldridgeJr/ai-resume-analyzer) | KI-gestützte Lebenslauf-Analyse mit ATS-Score | React, React Router 7, Tailwind CSS, Puter.js |
-| [Court99](https://github.com/EldridgeJr/C99) | Plattform zur Vorbereitung auf Gerichtstermine | TypeScript, React, Supabase, PostgreSQL |
+| [Nexo](https://github.com/EldridgeJr/nexo-ios) | Real-time options trading terminal (iOS) | Swift, SwiftUI, Claude API, Cloudflare Workers |
+| [Resumind](https://github.com/EldridgeJr/ai-resume-analyzer) | AI-powered resume analysis with ATS scoring | React, React Router 7, Tailwind CSS, Puter.js |
+| [Court99](https://github.com/EldridgeJr/C99) | Platform that prepares clients for court hearings | TypeScript, React, Supabase, PostgreSQL |
 
 ## Tech
 
-`Swift` `SwiftUI` `TypeScript` `React` `Next.js` `Tailwind CSS` `Supabase` `LLM-APIs` `GSAP` `three.js`
+`Swift` `SwiftUI` `TypeScript` `React` `Next.js` `Tailwind CSS` `Supabase` `LLM APIs` `GSAP` `three.js`
 
-## Kontakt
+## Contact
 
 [eldridgekaboth.dev](https://eldridgekaboth.dev) · [LinkedIn](https://www.linkedin.com/in/eldridge-kaboth) · eldridgekaboth@gmail.com
